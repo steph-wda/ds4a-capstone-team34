@@ -1,0 +1,20 @@
+Feature,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] ,Correlation Coefficient 
+Intercept                                   ,3.56E+04,1.10E+04,3.244,0.004,1.27E+04,5.85E+04,
+Combined Education Expenditure (% of GDP)*,-537.9336,3009.121,-0.179,0.86,-6814.85,5738.983,
+Population Internet Usage (%)*,1154.2571,1676.405,0.689,0.499,-2342.663,4651.178,
+Researchers (Per 1000 Employed)*,1.53E+04,8389.877,1.827,0.083,-2171.393,3.28E+04,
+Total Export Value (Billions)*      ,1.23E+04,6282.559,1.96,0.064,-793.198,2.54E+04,
+Chile                                       ,9537.3627,1.83E+04,0.522,0.608,-2.86E+04,4.77E+04,-0.396
+Germany                                     ,-1.76E+04,1.56E+04,-1.127,0.273,-5.01E+04,1.49E+04,0.101
+Mexico                                      ,-1096.4912,2.11E+04,-0.052,0.959,-4.50E+04,4.28E+04,-0.483
+Netherlands                                 ,4864.0961,6060.636,0.803,0.432,-7778.169,1.75E+04,0.176
+Norway                                      ,3.28E+04,3611.742,9.072,0,2.52E+04,4.03E+04,0.597
+Romania                                     ,3822.7054,1.87E+04,0.204,0.84,-3.53E+04,4.29E+04,-0.451
+"Q(""United States of America"")               ",-3443.8366,1.65E+04,-0.208,0.837,-3.79E+04,3.11E+04,0.361
+Combined Education Expenditure Total (Millions),,,,,,,0.386
+Combined Education Expenditure (% of GDP),,,,,,,0.649
+Population Internet Usage (%),,,,,,,0.845
+Patents Granted,,,,,,,0.361
+Patents in Force,,,,,,,0.399
+Researchers (Per 1000 Employed),,,,,,,0.923
+Total Export Value (Billions),,,,,,,0.373
